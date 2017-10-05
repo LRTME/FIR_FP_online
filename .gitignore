@@ -1,6 +1,12 @@
 /dvt
+
 /.metadata
 /RemoteSystemsTempFiles
+
 /FIR_filter_offline/.launches
-/FIR_filter_offline/.settings
+/
+FIR_filter_offline/.settings
 /FIR_filter_offline/Debug
+/FIR_filter_online/.launches
+/FIR_filter_online/.settings
+/FIR_filter_online/Debug
